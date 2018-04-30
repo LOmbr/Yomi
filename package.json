@@ -1,0 +1,22 @@
+{
+  "name": "yomi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+	"start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LOmbr/Yomi.git"
+  },
+  "author": "LOmbr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LOmbr/Yomi/issues"
+  },
+  "homepage": "https://github.com/LOmbr/Yomi#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
